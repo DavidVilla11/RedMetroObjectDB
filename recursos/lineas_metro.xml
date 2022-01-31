@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<lista_lineas>
+  <linea>
+    <cod_linea>1</cod_linea>
+    <kilometros>0.75</kilometros>
+    <nombre_corto>Ramal</nombre_corto>
+    <nombre_largo>Ópera - Principe Pío</nombre_largo>
+    <cod_color>13</cod_color>
+	<url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-ramal.png</url_img_tmp>
+  </linea>
+  <linea>
+    <cod_linea>2</cod_linea>
+    <kilometros>12.25</kilometros>
+    <nombre_corto>Línea 1</nombre_corto>
+    <nombre_largo>Pinar de Chamartín - Valdecarros</nombre_largo>
+    <cod_color>1</cod_color>
+    <url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-1.png</url_img_tmp>	
+  </linea>
+  <linea>
+    <cod_linea>3</cod_linea>
+    <kilometros>9.5399999619</kilometros>
+    <nombre_corto>Línea 2</nombre_corto>
+    <nombre_largo>Las Rosas - Cuatro Caminos</nombre_largo>
+    <cod_color>2</cod_color>
+	<url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-2.png</url_img_tmp>
+  </linea>
+  <linea>
+    <cod_linea>4</cod_linea>
+    <kilometros>8.3400001526</kilometros>
+    <nombre_corto>Línea 3</nombre_corto>
+    <nombre_largo>Villaverde Alto - Moncloa</nombre_largo>
+    <cod_color>3</cod_color>
+	<url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-3.png</url_img_tmp>
+  </linea>
+  <linea>
+    <cod_linea>5</cod_linea>
+    <kilometros>7.5</kilometros>
+    <nombre_corto>Línea 4</nombre_corto>
+    <nombre_largo>Arguelles - Pinar de Chamartín</nombre_largo>
+    <cod_color>4</cod_color>
+	<url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-4.png</url_img_tmp>
+  </linea>
+  <linea>
+    <cod_linea>6</cod_linea>
+    <kilometros>6.5</kilometros>
+    <nombre_corto>Línea 5</nombre_corto>
+    <nombre_largo>Alameda de Osuna - Casa de Campo</nombre_largo>
+    <cod_color>5</cod_color>
+	<url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-5.png</url_img_tmp>
+  </linea>
+  <linea>
+    <cod_linea>7</cod_linea>
+    <kilometros>17.75</kilometros>
+    <nombre_corto>Línea 6</nombre_corto>
+    <nombre_largo>Circular</nombre_largo>
+    <cod_color>6</cod_color>
+    <url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-6.png</url_img_tmp>	
+  </linea>
+  <linea>
+    <cod_linea>8</cod_linea>
+    <kilometros>15</kilometros>
+    <nombre_corto>Línea 7</nombre_corto>
+    <nombre_largo>Hospital del Henares -  Pitis</nombre_largo>
+    <cod_color>7</cod_color>
+    <url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-7.png</url_img_tmp>	
+  </linea>
+  <linea>
+    <cod_linea>9</cod_linea>
+    <kilometros>7.4499998093</kilometros>
+    <nombre_corto>Línea 8</nombre_corto>
+    <nombre_largo>Nuevos Ministerios - Aeropuerto</nombre_largo>
+    <cod_color>8</cod_color>
+    <url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-8.png</url_img_tmp>	
+  </linea>
+  <linea>
+    <cod_linea>10</cod_linea>
+    <kilometros>10.75</kilometros>
+    <nombre_corto>Línea 9</nombre_corto>
+    <nombre_largo>Paco de Lucía -  Arganda del Rey</nombre_largo>
+    <cod_color>9</cod_color>
+    <url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-9.png</url_img_tmp>	
+  </linea>
+  <linea>
+    <cod_linea>11</cod_linea>
+    <kilometros>12.75</kilometros>
+    <nombre_corto>Línea 10</nombre_corto>
+    <nombre_largo>Hospital Infanta Sofía - Puerta del Sur</nombre_largo>
+    <cod_color>10</cod_color>
+	<url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-10.png</url_img_tmp>
+  </linea>
+  <linea>
+    <cod_linea>12</cod_linea>
+    <kilometros>3.75</kilometros>
+    <nombre_corto>Línea 11</nombre_corto>
+    <nombre_largo>Plaza Elíptica -  La Fortuna</nombre_largo>
+    <cod_color>11</cod_color>
+    <url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-11.png</url_img_tmp>	
+  </linea>
+  <linea>
+    <cod_linea>13</cod_linea>
+    <kilometros>10.75</kilometros>
+    <nombre_corto>Línea 12</nombre_corto>
+    <nombre_largo>Metrour</nombre_largo>
+    <cod_color>12</cod_color>
+    <url_img_tmp>https://www.planometromadrid.org/mapas-metro/metro-madrid-linea-12.png</url_img_tmp>	
+  </linea>
+</lista_lineas>
