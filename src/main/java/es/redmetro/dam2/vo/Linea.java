@@ -40,7 +40,7 @@ public class Linea {
 //	@OneToMany(mappedBy = "codigoEstacion")
 //	private Set<Estacion> estaciones;
 	
-	@OneToOne(cascade = CascadeType.ALL)
+	@OneToOne
     @JoinColumn(name = "cod_color", foreignKey = @ForeignKey(name = "FK_COLORLINEA"))
 	private Color color;
 	
